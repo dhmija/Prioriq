@@ -1,4 +1,4 @@
-# 📝 FlowTodo - React Native App
+# 📝 Prioriq - React Native App
 
 A modern, responsive task management application built with React Native and Expo. It allows users to organize their daily tasks with Notion-inspired UI, complete with categories, priorities, due dates, and dark mode support.
 
